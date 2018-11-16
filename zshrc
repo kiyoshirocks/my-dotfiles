@@ -5,7 +5,7 @@
 DEFAULT_USER="Kiyoshi"
 
 # Path to your oh-my-zsh installation.
-export ZSH=/home/centos/.oh-my-zsh
+export ZSH="$HOME/.oh-my-zsh"
 export PATH="/usr/local/bin:$PATH"
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
