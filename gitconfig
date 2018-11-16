@@ -1,0 +1,11 @@
+[user]
+  name = kiyoshi.rocks
+  email = yoshiki.kou@gmail.com
+[core]
+  editor = vim
+[alias]
+  co = checkout
+  br = branch
+  st = status
+  l = log --oneline --graph
+  ls = log --graph --pretty=format:\"%h <%an> %ar %s\"
